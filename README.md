@@ -1,4 +1,4 @@
-# Nagel-Short Model
+# Nagel-Schreckenberg Model
 
 ## Introduction
 
